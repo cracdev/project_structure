@@ -10,11 +10,11 @@ or copy the Create New Project Automation.workflow into ~/Library/Services
 1. Create folder for project.
 2. Right click on folder icon and select "Create Folders Structure" from "Services" menu...
 
-![](https://raw.githubusercontent.com/cracdev/project_structure/master/howto/s01.jpg)
+![](https://github.com/cracdev/project_structure/blob/master/howto/s1.png)
 
 ... files in folder.
 
-![](https://raw.githubusercontent.com/cracdev/project_structure/master/howto/s02.jpg)
+![](https://github.com/cracdev/project_structure/blob/master/howto/s2.png)
 
 You can edit workflow in Automator.app for your requirements.
 
